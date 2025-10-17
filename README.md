@@ -14,21 +14,22 @@ https://skypro101-2.yonote.ru/share/d254b0c7-e725-4a9d-80fc-91219464de80
 
 Chitai-gorod
 │
-├── pages
-│   ├── Add_To_Cart_api.py
-│   ├── Add_To_Cart_ui.py
-│   ├── Delete_From_Cart_api.py
-│   ├── Delete_From_Cart_ui.py
-│   ├── Search_By_Author_ui.py
-│   ├── Search_By_Title_ui.py
-│   ├── Send_Empty_Post_Request_api.py
-│   ├── Update_cart_api.py
-│   └── Wrong_Add_To_Cart_api.py
+
 │
 ├── test
 │   ├── test_api.py
 │   ├── test_ui.py
-│   └── constants.py
+│   ├── constants.py
+│   └── pages
+│       ├── Add_To_Cart_api.py
+│       ├── Add_To_Cart_ui.py
+│       ├── Delete_From_Cart_api.py
+│       ├── Delete_From_Cart_ui.py
+│       ├── Search_By_Author_ui.py
+│       ├── Search_By_Title_ui.py
+│       ├── Send_Empty_Post_Request_api.py
+│       ├── Update_cart_api.py
+│       └── Wrong_Add_To_Cart_api.py
 │
 ├── constants.py
 ├── README.md
